@@ -2,4 +2,4 @@
 
 This is a demo of git hub to check the changes I have done
 
-project02
+change in the project02 and push to project02
